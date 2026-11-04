@@ -36,7 +36,7 @@ object Mikhail {
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 #### [⚡ FlashGram](https://github.com/CriminalFlower/FlashGram)
 Неофициальный клиент Telegram Desktop для Windows.
@@ -45,7 +45,16 @@ object Mikhail {
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+#### [🇷🇺 RussianFirst](https://github.com/CriminalFlower/russian-first)
+Скилл для Claude Code: русский язык по умолчанию, без кракозябр и подписей ИИ.
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Release](https://img.shields.io/github/v/release/CriminalFlower/russian-first?style=flat-square&color=ffb04a)
+
+</td>
+<td width="33%" valign="top">
 
 #### 🔭 Новые проекты
 Telegram-плагины, Android-приложения и AI-агенты — скоро здесь.
