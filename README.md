@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=CriminalFlower&color=ff8a3d&style=flat-square&label=%D0%BF%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B" alt="Просмотры профиля"/>
+<img src="https://komarev.com/ghpvc/?username=CriminalFlower&color=ff8a3d&style=flat-square&label=profile%20views" alt="Просмотры профиля"/>
 <img src="https://img.shields.io/github/followers/CriminalFlower?style=flat-square&color=b8a4ff&label=%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%87%D0%B8%D0%BA%D0%B8" alt="Подписчики"/>
 <img src="https://img.shields.io/github/stars/CriminalFlower?style=flat-square&color=ffb04a&label=%D0%B7%D0%B2%D1%91%D0%B7%D0%B4%D1%8B&affiliations=OWNER" alt="Звёзды"/>
 
